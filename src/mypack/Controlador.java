@@ -1,3 +1,19 @@
+/**
+
+* Unicesumar ? Centro Universitário Cesumar
+
+* Curso: Análise e Desenvolvimento de Sistemas
+
+* Autor(es): Wendell Neander Santos Silva
+
+* Data: 27/11/2016
+
+* Repositório: https://github.com/shinaider112/CalculoIMC.git
+
+* Descrição: Classe controle, realiza os calculos que o usuario pede na interface.
+
+*/
+
 package mypack;
 
 import java.util.ArrayList;
