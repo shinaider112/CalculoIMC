@@ -1,3 +1,19 @@
+
+/**
+
+* Unicesumar ? Centro Universitário Cesumar
+
+* Curso: Análise e Desenvolvimento de Sistemas
+
+* Autor(es): Wendell Neander Santos Silva
+
+* Data: 27/11/2016
+
+* Repositório: https://github.com/shinaider112/CalculoIMC.git
+
+* Descrição: Classe para armazenamento de dados individuais das pessoas.
+
+*/
 package mypack;
 
 public class Pessoa {
