@@ -87,7 +87,7 @@ public class Controlador {
 			System.out.println("A media de idade para mulheres e: " + totalIdadeFem/totalMulheres + " anos");
 			System.out.println("A media de IMC para mulheres e: " + totalImcMulheres/totalMulheres);
 			System.out.println("Total de homens: " + totalHomens);
-			System.out.println("Total de mulheres: " + totalHomens + "\n\n");
+			System.out.println("Total de mulheres: " + totalMulheres + "\n\n");
 		}else{
 			System.out.println("Voce precisa ler os dados antes.");
 			//opcaoValida = false;
